@@ -1,0 +1,16 @@
+.footer_section {
+    background-color:#7744CF;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+}
+.footer_section p a{
+    color: #01bfea;
+}
+.footer_section p{
+    color: #fff;
+    padding: 20px 0;
+    margin-bottom: 0;
+}

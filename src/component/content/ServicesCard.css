@@ -1,0 +1,45 @@
+.Service_page{
+    padding: 90px 0;
+    transition: .3s;
+}
+.service_banner h1{
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 48px;
+    font-weight: 700;
+}
+.card-title{
+    color:#01bfea;
+    font-weight: 600;
+    font-size: 22px;
+}
+.car_img{
+    max-height: 300px;
+    overflow: hidden;
+}
+.card-text{
+    color:#646464;
+    padding: 5px 0;
+}
+
+.card-body a{
+    text-decoration: none;
+    background-color: #01bfea;
+    display: inline-block;
+    padding: 8px 15px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.card:hover .card-body a{
+    background-color: #7744CF;
+}
+.card:hover .card-title{
+    color:#7744cf
+}
+.card-body a:hover{
+    background-color: #01bfea !important;
+}

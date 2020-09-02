@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right bottom, #8852dd, #8049d8, #773fd3, #6e35cd, #652bc8, #652bc8, #652bc8, #652bc8, #6e35cd, #773fd3, #8049d8, #8852dd);
+  background-attachment: fixed;
+  background-size: 100% 100vh;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
