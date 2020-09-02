@@ -27,7 +27,7 @@
     letter-spacing: 1px;
 }
 .get_started:hover{
-    background-color: #01bfee;
+    background-color: #01bfee !important;
     color: #fff;
 }
 #hero .animated{

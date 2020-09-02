@@ -33,7 +33,7 @@ const Contact = () => {
                     <div className="row">
                         <div className="col-10 mx-auto">
                             <div className="row">
-                                <div className="col-md-6 col-10 mx-auto">
+                                <div className="col-md-6 col-10 mx-auto contact_maxwidth">
                                     <div className="section_heading">
                                         <h1>Contact Us</h1>
                                     </div>
