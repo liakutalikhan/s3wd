@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroSection from '../content/HeroSection';
-import HeroImg from '../images/aboutImg2.png'
+import HeroImg from '../images/aboutImgUp.png'
 
 
 const About = () => {

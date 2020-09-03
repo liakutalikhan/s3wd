@@ -1,6 +1,7 @@
 .Service_page{
     padding: 90px 0;
     transition: .3s;
+    margin-bottom: 40px;
 }
 .service_banner h1{
     color: #fff;
@@ -42,4 +43,15 @@
 }
 .card-body a:hover{
     background-color: #01bfea !important;
+}
+
+@media (max-width: 991.98px) {
+    .service_banner h1{
+        font-size: 42px;
+    }
+}
+@media (max-width: 767.98px) {
+    .service_banner h1{
+        font-size: 35px;
+    }
 }
